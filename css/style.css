@@ -916,6 +916,7 @@ h1, h2, h3, h4, h5, h6, figure {
   -moz-flex-wrap: wrap;
   width: 100%;
   float: left;
+  justify-content: center;
 }
 #fh5co-consult .video, #fh5co-consult .choose {
   display: inline-block;
